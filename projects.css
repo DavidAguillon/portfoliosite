@@ -1,0 +1,36 @@
+#bwta{
+  text-align: center;
+  padding-top: 0%;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+         0px 8px 13px rgba(0,0,0,0.1),
+         0px 18px 23px rgba(0,0,0,0.1);
+}
+
+ img {
+  display: block;
+    border-radius: 200px;
+    box-sizing: border-box;
+    background-color: #DDD;
+    border: 2px solid #cfd8dc;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    height: 500px;
+    width: 500px
+}
+
+img {
+    height: auto;
+    width: auto;
+    max-height: 400px;
+    max-width: 400px;
+}
+
+body {
+    background: url(https://images.unsplash.com/photo-1447639703758-f525f36456bf?dpr=1&auto=format&fit=crop&w=1500&h=1052&q=80&cs=tinysrgb&crop=) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    font-family: Lato;
+    margin: auto;
+}
